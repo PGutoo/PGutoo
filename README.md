@@ -29,12 +29,11 @@ Toda experiência é bem vinda!
 
 ## Meus Projetos
 
-### [Projeto 1](https://github.com/seu-usuario/projeto1)
-Descrição breve do projeto. O que ele faz, as tecnologias usadas, etc.
+### [crud-java](https://github.com/PGutoo/crud-java)
+API Crud em Java, esse projeto é utilizado para aprimorar os estudos em Java, sempre sendo refatorado buscando melhores performances que possam ser usadas em outros grandes projetos.
 
-### [Projeto 2](https://github.com/seu-usuario/projeto2)
-Descrição breve do projeto. O que ele faz, as tecnologias usadas, etc.
+### [lambda-trata-arquivo](https://github.com/PGutoo/lambda-trata-arquivo)
+Aplicação Python simulando o comportamento de uma Lambda AWS, essa aplicação recebe via requisição HTTP um arquivo Excel (xlsx) e faz uma leitura das colunas e retorna dados baseado nas informações da planilha, como dados de CNPJs informados.
 
-### [Projeto 3](https://github.com/seu-usuario/projeto3)
-Descrição breve do projeto. O que ele faz, as tecnologias usadas, etc.
-
+### [ai-model](https://github.com/PGutoo/ai-model)
+O Projeto treina uma rede neural para classificar imagens de dígitos escritos à mão, utilizando o conjunto de dados MNIST, e avalia sua precisão e perda.
